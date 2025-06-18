@@ -1,61 +1,41 @@
-# Full Stack Web Development Projects - ApexPlanet Internship
+Travel Webpage Design 2025
+A modern, responsive travel-themed webpage designed using HTML, CSS, and JavaScript. The project features a stylish layout, blur effects, gradient text, and interactive buttons. Ideal for beginners learning front-end development.
 
-Welcome to my GitHub repository showcasing the *projects and tasks* I completed as part of the *45-Day Full Stack Web Development Internship* at *ApexPlanet Software Pvt. Ltd.*
+🚀 Features
 
-This internship focused on *HTML, CSS, and JavaScript*, taking me through foundational concepts to building fully functional web applications. Below are the structured tasks and projects I completed during this internship.
+1.Glass-style (frosted) UI with background blur
 
-## 📅 Internship Duration
+2.Responsive layout using Flexbox
 
-*45 Days*  
-*Technology Stack:* HTML, CSS, JavaScript  
-*Conducted by:* ApexPlanet Software Pvt. Ltd.
+3.Stylish navigation bar with hover effects
 
-## 📌 Task Breakdown
+4.Explore button with JavaScript alert functionality
 
-### ✅ *Task 1: Basics of Web Development (Days 1–9)*
-- *Learn foundational HTML, CSS, JavaScript*
-- Created a simple webpage with:
-  - Headings, paragraphs, images, and links using HTML
-  - Styling using CSS (fonts, colors, layout)
-  - Interactivity using JavaScript (e.g., button with alert)
+5.Social media icons with hover transitions
 
-### ✅ *Task 2: Intermediate HTML, CSS & JavaScript (Days 10–18)*
-- Created:
-  - A styled contact form with input validation using JavaScript
-  - A responsive layout using *Flexbox, **CSS Grid*, and media queries
-  - A dynamic project (To-do list or Image Gallery) using DOM manipulation
+6.Custom typography and background gradient effects
 
-### ✅ *Task 3: Advanced Styling & JavaScript (Days 19–27)*
-- Built:
-  - Responsive web pages using advanced *media queries*
-  - An interactive *quiz app* or *image carousel*
-  - A project using *public APIs* (e.g., Weather API, Joke API)
+📁 Folder Structure
+📦 travel-webpage
+ ┣ 📜 index.html
+ ┣ 📜 style.css
+ ┣ 📜 README.md
+ ┣ 📂 img/
+ ┃ ┣ 📷 back.jpg
+ ┃ ┣ 📷 travel.2.jpg
+ ┃ ┗ 📷 travel.webp
+🛠️ Technologies Used
+HTML5
 
-### ✅ *Task 4: Full Project Implementation (Days 28–36)*
-- Developed:
-  - A *Personal Portfolio Website* (multi-page: About, Projects, Contact)
-  - A *To-Do List/Note-Taking App* with data saved in localStorage
-  - A *Product Listing Page* with filtering and sorting features
+CSS3
 
-### ✅ *Task 5: Final Project & Optimization (Days 37–45)*
-- Built a *Full Web Application* (e.g., Blog, E-commerce, or Portfolio)
-- Performed:
-  - *Cross-browser testing* (Chrome, Firefox, Safari, Mobile)
-  - *Performance optimization* (lazy loading, minified JS/CSS, HTTP request reduction)
+JavaScript (Vanilla)
 
+Font Awesome for social icons
 
-## 📂 Project Structure
+✅ Live Demo (Optional)
+You can add a link here after deploying to GitHub Pages or Netlify.
 
-Each task is included in its own folder with the corresponding source code:
-
-📁 task-1-basics/ 📁 task-2-intermediate/ 📁 task-3-advanced/ 📁 task-4-full-project/ 📁 task-5-final-capstone/
-
-Each folder contains:
-- index.html
-- style.css
-- script.js
-- README.md (optional task-specific info
-
-## 👨‍💻 About Me
-
-I am a *Computer Science Engineering student* passionate about building interactive and responsive web applications. This internship helped me enhance my frontend development skills and apply best practices in real-world projects
+📸 Screenshot (Optional)
+Include a screenshot here to show what the site looks like:
+![Webpage Preview](img/screenshot.png)
