@@ -1,0 +1,49 @@
+Advanced Styling and JavaScript 🚀
+This project demonstrates advanced techniques in CSS and JavaScript to build responsive and interactive web applications. It includes:
+
+Responsive design with CSS media queries
+
+An interactive quiz using JavaScript
+
+Fetching and displaying live data from a public API
+
+📁 Project Structure
+bash
+Copy
+Edit
+.
+├── index.html       # Main HTML file
+├── style.css        # Responsive CSS styling
+└── script.js        # Quiz logic and API integration
+
+🌐 1. Responsive Design with Media Queries
+Uses CSS media queries to ensure the layout and typography adapt to different screen sizes including mobile, tablet, and desktop.
+
+Key Features:
+
+Fluid layout
+
+Font scaling
+
+Background color adaptation
+
+🧠 2. JavaScript Interactive Quiz
+A simple two-question multiple-choice quiz implemented with vanilla JavaScript.
+
+Features:
+
+Dynamic rendering of questions
+
+Score tracking
+
+Input validation
+
+🛠 Technologies Used
+HTML5
+
+CSS3 (Media Queries)
+
+JavaScript (ES6)
+
+Fetch API
+
